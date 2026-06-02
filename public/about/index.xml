@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Michelle Wagner</title>
-    <link>https://example.org/about/</link>
+    <link>https://michellemay02.github.io/Portfolio/about/</link>
     <description>Recent content in About Me on Michelle Wagner</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michellemay02.github.io/Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
