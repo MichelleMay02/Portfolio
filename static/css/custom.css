@@ -1,0 +1,29 @@
+/* Ensure container spans full width on Projects page */
+
+
+/* Full-screen project sections */
+body.page-projects .project-section {
+  position: relative;       /* Proper positioning */
+  width: 100vw;             /* Full viewport width */
+  min-width: 100%;          /* Fallback to avoid shrinking */
+  height: 100vh;            /* Full viewport height */
+  margin: 0;
+  padding: 0;
+  background-size: 100% 100%;   /* Stretch image to cover entire section */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Keep image fixed while scrolling */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-image 0.8s ease-in-out;
+}
+
+/* Cards inside Projects page */
+body.page-projects .project-card {
+  background: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 400px;
+}

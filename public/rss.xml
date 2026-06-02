@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Tue, 23 Sep 2025 15:05:00 EDT</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Michelle Wagner</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<style>.project-panel{display:flex;flex-wrap:nowrap;background:#fff;border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.1);padding:2rem;align-items:center;margin-bottom:1.5rem;cursor:pointer;transition:transform .2s,box-shadow .2s}.project-panel:hover{transform:translateY(-3px);box-shadow:0 6px 10px rgba(0,0,0,.15)}.project-panel img{width:180px;height:auto;margin-right:2rem;border-radius:8px}.project-panel h3{margin:0 0 .5rem}.project-panel p{margin:.2rem 0}.side-panel{position:fixed;top:0;right:-100%;width:400px;height:100%;background:#f4f4f4;box-shadow:-4px 0 12px rgba(0,0,0,.2);transition:right .4s ease;padding:2rem;overflow-y:auto;z-index:1000}.side-panel.active{right:0}.side-panel h3{color:#0077b6;margin-top:0}.side-panel p{margin-bottom:1rem}.side-panel .close-btn{position:absolute;top:1rem;right:1rem;background:#0077b6;color:#fff;border:none;border-radius:50%;width:28px;height:28px;font-weight:700;cursor:pointer}</style><div class=project-panel data-title="NY CITTI" data-content="Role: Graduate Research Assistant
+Project: Testing a predictive theory for Hadley Cell Extent in the martian atmosphere: Analyzing the constraints on expansion and implications for Earth's warming climate - A Comparative Climate Study
+Outcomes: Python workflows, manuscript contribution"><img src=http://localhost:1313/NYCITTI.png alt="NY CITTI Logo"><div><h3><a href=https://shill.ccny.cuny.edu/group.html target=_blank>NY CITTI</a></h3><p><strong>Role:</strong> Graduate Research Assistant</p><p><strong>Project:</strong> Testing predictive theory for Hadley Cell Extent in Mars' atmosphere</p><p><strong>Outcomes:</strong> Python workflows, manuscript contribution</p></div></div><div class=project-panel data-title="Tzortziou Bio-Optics Lab" data-content="Role: Undergraduate Research Intern
+Project: Calibrated and validated ocean-color satellite data
+Outcomes: Python workflows, manuscript contribution"><img src=http://localhost:1313/TZ.png alt="Tzortziou Lab Logo"><div><h3><a href=https://www.mariatzortziou.com/michelle-wagner.html target=_blank>Tzortziou Bio-Optics Lab</a></h3><p><strong>Role:</strong> Undergraduate Research Intern</p><p><strong>Project:</strong> Calibrated and validated ocean-color satellite data</p><p><strong>Outcomes:</strong> Python workflows, manuscript contribution</p></div></div><div class=project-panel data-title="NSF REU at ALASU" data-content="Role: Undergraduate Research Intern
+Project: Calibrated and validated ocean-color satellite data
+Outcomes: Python workflows, manuscript contribution"><img src=http://localhost:1313/NSFREU.png alt="NSF REU Logo"><div><h3><a href=https://bioreu-alasu.org/cohort-7-summer-2022/ target=_blank>NSF REU at ALASU</a></h3><p><strong>Role:</strong> Undergraduate Research Intern</p><p><strong>Project:</strong> Calibrated and validated ocean-color satellite data</p><p><strong>Outcomes:</strong> Python workflows, manuscript contribution</p></div></div><div class=side-panel id=sidePanel><button class=close-btn onclick=closePanel()>×</button><h3 id=panelTitle>Title Here</h3><p id=panelContent>Content goes here.</p></div><script>const panels=document.querySelectorAll(".project-panel"),sidePanel=document.getElementById("sidePanel"),panelTitle=document.getElementById("panelTitle"),panelContent=document.getElementById("panelContent");panels.forEach(e=>{e.addEventListener("click",()=>{panelTitle.textContent=e.dataset.title,panelContent.textContent=e.dataset.content,sidePanel.classList.add("active")})});function closePanel(){sidePanel.classList.remove("active")}</script>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-09-23:/research/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/research/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/research/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Tue, 23 Sep 2025 15:05:00 EDT</pubDate>
+                    
+
+                    
+                        <title>Specializations</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<style>body{font-family:helvetica neue,Arial,sans-serif;line-height:1.6;margin:0;padding:0}.fade-section{opacity:0;transform:translateY(20px);transition:opacity .8s ease-out,transform .8s ease-out}.fade-section.visible{opacity:1;transform:translateY(0)}.skills-container{display:flex;flex-wrap:wrap;justify-content:center;gap:.5rem;margin-top:1rem}.skill-btn{background:#2ecc71;color:#fff;padding:.75rem 1.25rem;border-radius:10px;border:none;cursor:pointer;font-weight:600}.skill-btn:hover{background:#27ae60}.modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:1000;overflow-y:auto}.modal-content{background:#fff;padding:2rem;border-radius:12px;max-width:520px;margin:5% auto}.timeline{position:relative;margin:2rem 0;padding:0}.timeline::before{content:"";position:absolute;left:50%;top:0;bottom:0;width:4px;background:#0077b6;transform:translateX(-50%)}.timeline-entry{position:relative;width:50%;padding:1rem 2rem;box-sizing:border-box;opacity:0;transform:translateY(20px);transition:opacity .8s ease-out,transform .8s ease-out;cursor:pointer}.timeline-entry.visible{opacity:1;transform:translateY(0)}.timeline-entry:nth-child(odd){left:0;text-align:right}.timeline-entry:nth-child(even){left:50%;text-align:left}.timeline-entry::before{content:"";position:absolute;top:1rem;width:16px;height:16px;background:#0077b6;border-radius:50%;z-index:1}.timeline-entry:nth-child(odd)::before{right:-8px}.timeline-entry:nth-child(even)::before{left:-8px}.timeline-entry h3{margin:.2rem 0}.details-panel{position:fixed;top:0;right:-100%;width:400px;height:100%;background:#f4f4f4;box-shadow:-4px 0 12px rgba(0,0,0,.2);transition:right .5s ease;padding:2rem;overflow-y:auto;z-index:1000}.details-panel.active{right:0}.details-panel h3{margin-top:0;color:#0077b6}.details-panel p{margin-bottom:1rem}.details-panel .close-btn{position:absolute;top:1rem;right:1rem;background:#0077b6;color:#fff;border:none;border-radius:50%;width:28px;height:28px;font-weight:700;cursor:pointer}a{text-decoration:none;color:#0077b6}a:hover{text-decoration:underline}</style><div style=text-align:center;margin-bottom:1rem><a href=http://localhost:1313/Michelle_Wagner_CV.pdf style=font-weight:700;color:#0077b6;font-size:1.1rem>📄 Download my CV (PDF)</a></div><hr><div class=fade-section style="display:flex;justify-content:center;flex-wrap:wrap;gap:.5rem;align-items:center;font-weight:700;font-family:helvetica neue,Arial,sans-serif;font-size:1rem;color:#0077b6"><span>@mwagner000@citymail.cuny.edu</span>
+<span style="margin:0 .5rem">♦</span>
+<span><a href=https://linkedin.com/in/michelle-may-wagner target=_blank>linkedin.com/in/michelle-may-wagner</a></span>
+<span style="margin:0 .5rem">♦</span>
+<span><a href=https://github.com/yourname target=_blank>github.com/yourname</a></span></div><hr><div class=fade-section id=skills><h2 style=text-align:center;font-weight:700;color:#0077b6;margin-bottom:1rem>Skills</h2><div class=skills-container><button class=skill-btn onclick='openModal("satelliteModal")'>Satellite Data Processing</button>
+<button class=skill-btn onclick='openModal("geoModal")'>Geospatial Analysis</button>
+<button class=skill-btn onclick='openModal("oceanModal")'>Ocean Color Calibration</button>
+<button class=skill-btn onclick='openModal("reanalysisModal")'>Atmospheric Reanalysis</button>
+<button class=skill-btn onclick='openModal("climateModal")'>Climate Modeling</button>
+<button class=skill-btn onclick='openModal("pythonModal")'>Python Programming</button>
+<button class=skill-btn onclick='openModal("matlabModal")'>MATLAB & R</button>
+<button class=skill-btn onclick='openModal("cppModal")'>C++ & Arduino</button></div></div><div id=satelliteModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>Satellite Data Processing</h3><p>Processed and analyzed satellite datasets using SNAP and custom workflows...</p></div></div><div id=geoModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>Geospatial Analysis</h3><p>Performed GIS analysis, mapping, and spatial data visualization using QGIS and ArcGIS...</p></div></div><div id=oceanModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>Ocean Color Calibration</h3><p>Calibrated and validated satellite-derived ocean color datasets...</p></div></div><div id=reanalysisModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>Atmospheric Reanalysis</h3><p>Analyzed ERA5 and other reanalysis datasets for climate research...</p></div></div><div id=climateModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>Climate Modeling</h3><p>Worked with climate simulation data and models to assess environmental impacts...</p></div></div><div id=pythonModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>Python Programming</h3><p>Developed Python scripts for data processing, analysis, and visualization...</p></div></div><div id=matlabModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>MATLAB & R</h3><p>Used MATLAB and R for statistical analysis, modeling, and plotting scientific data...</p></div></div><div id=cppModal class=modal onclick=closeModal(this)><div class=modal-content onclick=event.stopPropagation()><h3>C++ & Arduino</h3><p>Implemented embedded systems and computational experiments using C++ and Arduino...</p></div></div><div class=details-panel id=detailsPanel><button class=close-btn onclick=closePanel()>×</button><h3 id=panelTitle>Placeholder Title</h3><p id=panelContent>This is a placeholder description that will appear when a timeline entry is clicked.</p></div><script>function openModal(e){document.getElementById(e).style.display="block"}function closeModal(e){e.style.display="none"}function closePanel(){document.getElementById("detailsPanel").classList.remove("active")}document.addEventListener("DOMContentLoaded",()=>{const e=document.querySelectorAll(".fade-section"),t=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting?e.target.classList.add("visible"):e.target.classList.remove("visible")})},{threshold:.2});e.forEach(e=>t.observe(e));const n=document.querySelectorAll(".timeline-entry"),s=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting?e.target.classList.add("visible"):e.target.classList.remove("visible")})},{threshold:.2});n.forEach(e=>{s.observe(e),e.addEventListener("click",()=>{document.getElementById("panelTitle").textContent=e.querySelector("h3").textContent,document.getElementById("panelContent").textContent=e.dataset.content,document.getElementById("detailsPanel").classList.add("active")})})})</script><hr><div class=fade-section id=education><h2 style=text-align:center;color:#0077b6;font-weight:700>Education</h2><ul style=list-style-type:disc;margin-left:2rem><li><strong>Master of Science: Earth and Atmospheric Science</strong> – City College of NY, <em>Expected Aug 2025</em></li><li><strong>Bachelor of Science: Earth Systems Science, Ecosystems Concentration</strong> – City College of NY, <em>May 2023</em></li></ul></div><div class=fade-section id=work-experience><h2 style=text-align:center;font-weight:700;color:#0077b6;margin-bottom:1rem>Work Experiences and Professional Appointments</h2><div class=timeline><div class=timeline-entry data-content="Instructed and supervised undergraduate laboratory sessions, prepared and delivered course materials, and assessed student performance with constructive feedback."><h3>08/2025 – Present: Adjunct Lab Instructor</h3></div><div class=timeline-entry data-content="Conducting research in the Weather and Atmosphere Thematic Area to support NOAA’s mission through climate data analysis."><h3>03/2025 – Present: NOAA EPP/MSI CESSRST-II Cohort 3 Graduate Fellow</h3></div><div class=timeline-entry data-content="Designed community workshops, led EQA’s first remote-sensing series, and conducted detailed air-quality monitoring and reporting."><h3>05/2024 – Present: Environmental Educator / Air Quality Research Analyst</h3></div><div class=timeline-entry data-content="Assessed impacts of stressors on coastal systems using satellite bio-optical tools, calibrated ocean-color data, and participated in fieldwork campaigns."><h3>2022 – 2023: Undergraduate Researcher</h3></div><div class=timeline-entry data-content="Coordinated appointments, maintained organized record-keeping systems, and supported the administrative team with data entry and outreach tasks."><h3>Summer 2023: Research Intern</h3></div><div class=timeline-entry data-content="Researched improvements to Laser-Induced Breakdown Spectroscopy via gold nanoparticles; presented results at REU symposium."><h3>Summer 2022: Undergraduate Research Intern – NSF REU</h3></div><div class=timeline-entry data-content="Led after-school enrichment activities and implemented engaging STEM lessons to support student learning and development."><h3>2017: Group Leader & STEM Coordinator</h3></div></div></div>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-09-23:/cv/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/cv/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/cv/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Tue, 23 Sep 2025 15:00:00 EDT</pubDate>
+                    
+
+                    
+                        <title>Curriculum Vitae</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>

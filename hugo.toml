@@ -1,0 +1,70 @@
+theme = 'ananke'
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Michelle Wagner'
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 5
+
+[params]
+  description = "Michelle Wagner is an early-career environmental and Earth systems scientist, holding a BS in Environmental and Earth Systems Science with a concentration in Ecosystem Science from City College of New York (CCNY), and currently pursuing an MS in Earth and Atmospheric Sciences at CCNY. Her research journey has progressed from studying coastal ecosystems and remote sensing of estuarine and oceanic processes to investigating large-scale atmospheric circulation and climate systems."
+  author = "Michelle Wagner"
+  logo = "/images/logo.png"
+  dateFormat = "Jan 2, 2006"
+  showReadMore = true
+  highlightStyle = "monokai"
+
+
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/MichelleMay02"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/michelle-may-wagner/"
+
+[menu]
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 2
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+[[menu.main]]
+  name = "CV"
+  url = "/CV/"
+  weight = 4
+
+  
+
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 1
+
+[[menu.footer]]
+  name = "Privacy Policy"
+  url = "/privacy-policy/"
+  weight = 2
+
+[params.assets]
+  customCSS = ["css/custom.css"]
+
+[params.contact]
+  email = "mwagner000@citymail.cuny.edu"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
