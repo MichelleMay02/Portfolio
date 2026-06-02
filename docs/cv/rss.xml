@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Tue, 23 Sep 2025 15:05:00 EDT</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/cv/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/cv/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/cv/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/cv/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Cvs · Earth, Science, and Me</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h2 id=curriculum-vitae>Curriculum Vitae</h2><p><a href=http://localhost:1313/Michelle_Wagner_CV.pdf>📄 Download my CV (PDF)</a></p><p><a href=https://www.linkedin.com/in/michelle-may-wagner rel=external>LinkedIn</a></p><h2 id=contact>Contact</h2><ul><li>Email: <a href=mailto:mwagner000@citymail.cuny.edu rel=external>mwagner000@citymail.cuny.edu</a></li><li>LinkedIn: <a href=https://linkedin.com/in/yourname rel=external>linkedin.com/in/yourname</a></li><li>GitHub: <a href=https://github.com/yourname rel=external>github.com/yourname</a></li></ul><hr><h2 id=skills>Skills</h2><ul><li>Satellite data processing and geospatial analysis (SNAP, QGIS/ArcGIS, Google Earth)</li><li>Calibration and validation of ocean color remote sensing (Sea DASS, Hydrolyte)</li><li>Atmospheric Reanalysis & Climate Modelling (EMARS, MGCM)</li><li>Programming (Python, MATLAB, RStudio, C++, Arduino)</li></ul><hr><h2 id=work-experiences-and-professional-appointments>Work Experiences and Professional Appointments</h2><p><strong>Adjunct Lab Instructor</strong> – 08/2025 to Current<br>Research Foundation City University of New York (RF CUNY) at City College (CCNY) - Harlem, NY</p><ul><li>Instructed and supervised undergraduate laboratory sessions, preparing and delivering course materials, guiding students in applying theoretical concepts to hands-on activities, and maintaining a supportive and organized lab environment.</li><li>Assessed student performance through grading and feedback, and collaborated with faculty to ensure alignment between lab and lecture components.</li></ul><p><strong>NOAA EPP/MSI CESSRST-II Cohort 3 Graduate Fellow</strong> – 03/01/2025 to Current<br>National Oceanic and Atmospheric Administration (NOAA) Cooperative Center for Earth System Sciences and Remote Sensing Technologies (CESSRST)</p><ul><li>Contributed professional research to the NOAA Educational Partnership Program with Minority Serving Institutions (EPP/MSI) Weather and Atmosphere Research Thematic Area</li></ul><p><strong>Environmental Educator / Air Quality Research Analyst</strong> – 05/2024 to Current<br>Eastern Queens Alliance Inc., Idlewild Environmental Center – Springfield Gardens, NY</p><ul><li>Designed presentations and communicated complex environmental concepts to a diverse audience</li><li>Spearheaded EQA’s first ever remote sensing workshop series with hands-on experiments and guided computer-based data analytic instruction</li><li>Conducted detailed air quality monitoring and analysis and contributed to the writing of grant proposals and publications</li></ul><p><strong>Tzortziou Bio-optics Lab – Center for Discovery and Innovation, Harlem, NY</strong></p><ul><li>Utilized ground based and satellite remote sensing bio-optical tools to assess the impact of natural and anthropogenic stressors on coastal systems</li><li>Assisted with calibration and validation of ocean color remote sensing data and contributed to algorithm optimization associated with the development of level 3 data products, using statistical and visual programs such as Sea DASS, Hydrolyte, and MATLAB</li><li>Analyzed and evaluated ecological trends in urban estuaries and other threatened ecosystems (i.e., Long Island Sound, Chesapeake Bay, Norton Sound)</li><li>Routinely participated in fieldwork, preparing samples for analysis, maintaining cleanliness of lab equipment, and ensuring adherence to lab safety standards</li></ul><p><strong>Research Intern</strong> – 05/2023 to 08/2023<br>Student Assistant, Center for Prevention and Outreach (CPO) – Stony Brook, NY</p><ul><li>Assisted the main office by coordinating appointments, maintaining organization, answering phones, greeting incoming office visitors, and maintaining confidentiality of patient files</li><li>Supported administrative staff with clerical tasks such as data entry tasks, ensuring accuracy in record-keeping systems</li></ul><p><strong>Undergraduate Research Intern</strong> – 05/2022 to 08/2022<br>Research Experiences for Undergraduates at ASU – Alabama State University</p><ul><li>Conducted experiments to enhance the accuracy of Laser-Induced Breakdown Spectroscopy (LIBS) methodologies through gold nanoparticles</li><li>Prepared detailed reports and visualizations summarizing research findings and presented final findings at the REU research symposium</li></ul><p><strong>Group Leader & STEM Coordinator</strong> – 02/2017 to 12/2017<br>The Beacon Program at M.S. 226 – South Ozone Pk, NY</p><ul><li>Prepared after-school enrichment activities, fostered classroom engagement, and provided tutoring services</li><li>Developed and implemented engaging STEM lessons</li></ul><hr><h2 id=education>Education</h2><p><strong>Master of Science: Earth and Atmospheric Science</strong> – City College of NY, Expected 08/2025<br><strong>Bachelor of Science: Earth Systems Science, Ecosystems Concentration</strong> – City College of NY, 05/2023</p><hr><h2 id=honors-and-awards>Honors and Awards</h2><ul><li>Ocean Carbon Biogeochemical Program funding to attend the Summer 2024 Satellite Remote Sensing Training Program</li><li>Jeffrey Steiner Award for excellence in undergraduate research in Earth and Atmospheric Sciences, City College of NY (2023)</li></ul><hr><h2 id=professional-trainings>Professional Trainings</h2><ul><li>Responsible Conduct of Research (RCR), CITI Program, CUNY (Completed 04/2025)</li><li>NASA ARSET Program: Fundamentals of Remote Sensing, Observing Fleet, Spectral Indices for Land and Aquatic Applications using QGIS</li></ul><hr><h2 id=volunteer-experience>Volunteer Experience</h2><ul><li>Phytoplankton Monitoring Network (PMN)</li><li>STEMx Tutoring</li><li>The Compost Collective</li><li>NYC Parks Stewardship</li><li>Discovery Room, AMNH</li><li>Gowanus Canal Conservancy</li></ul><hr><h2 id=presentations-and-reports>Presentations and Reports</h2><ul><li>Wagner, M., Barnett, C., & Vig, K. (2022, August 30). <em>Examining the influence of gold nanoparticles on signal enhancement in LIBS technology.</em> Research & Training in Multidisciplinary Field of Regenerative Sciences for Undergraduates Symposium, Alabama State University</li><li>Bryan, J., Wagner, M., Ahmed, E., Holder, J., Duncan, L., Akeju, B. A., Mendela, M., & Roberts-Semple, D. (2015, January 15). <em>Assessing airport-related noise and air pollution levels in Southeast Queens.</em> Eastern Queens Alliance Inc., DEC Community Impact Grant Report</li><li>Dominique Jenssen, Minsun Lee, Charlotte Rhoads, Joaquim Goes, Maria Tzortziou, Michelle Wagner, Kyle Turner (May 2023). <em>A Space-based Retrieval Approach for Red-brown Tides in Long Island Sound.</em> Lamont-Doherty Earth Observatory Conference</li></ul>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-09-23:/cv/cv/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/cv/cv/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/cv/cv/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Tue, 23 Sep 2025 15:00:00 EDT</pubDate>
+                    
+
+                    
+                        <title>Curriculum Vitae</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>
