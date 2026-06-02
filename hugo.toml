@@ -43,7 +43,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
   name = "CV"
-  url = "CV/"
+  url = "cv/"
   weight = 4
 
   
