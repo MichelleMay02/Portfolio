@@ -9,7 +9,7 @@ enableRobotsTXT = true
 [params]
   description = "Michelle Wagner is an early-career environmental and Earth systems scientist, holding a BS in Environmental and Earth Systems Science with a concentration in Ecosystem Science from City College of New York (CCNY), and currently pursuing an MS in Earth and Atmospheric Sciences at CCNY. Her research journey has progressed from studying coastal ecosystems and remote sensing of estuarine and oceanic processes to investigating large-scale atmospheric circulation and climate systems."
   author = "Michelle Wagner"
-  logo = "/images/logo.png"
+  logo = "images/logo.png"
   dateFormat = "Jan 2, 2006"
   showReadMore = true
   highlightStyle = "monokai"
