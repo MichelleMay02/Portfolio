@@ -28,41 +28,41 @@ enableRobotsTXT = true
 
 [[menu.main]]
   name = "About Me"
-  url = "/about/"
+  url = "about/"
   weight = 1
 
 [[menu.main]]
   name = "Research"
-  url = "/research/"
+  url = "research/"
   weight = 2
 
 [[menu.main]]
   name = "Projects"
-  url = "/projects/"
+  url = "projects/"
   weight = 3
 
 [[menu.main]]
   name = "CV"
-  url = "/CV/"
+  url = "CV/"
   weight = 4
 
   
 
 [[menu.footer]]
   name = "Contact"
-  url = "/contact/"
+  url = "contact/"
   weight = 1
 
 [[menu.footer]]
   name = "Privacy Policy"
-  url = "/privacy-policy/"
+  url = "privacy-policy/"
   weight = 2
 
 [params.assets]
   customCSS = ["css/custom.css"]
 
 [params.contact]
-  email = "mwagner000@citymail.cuny.edu"
+  email = "michelle.may.wagner02@gmail.com"
 
 [markup]
   [markup.goldmark]
